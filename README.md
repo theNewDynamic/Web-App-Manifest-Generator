@@ -24,7 +24,7 @@ Below are the links to repo for the servers:
  - [graphql-server](https://github.com/sammychinedu2ky/manifest-server-graphql)
 
 
-
+https://web.dev/learn/pwa/web-app-manifest/
 
 The sites link can be found [here](https://manifest-gen.netlify.com/)
 ---
